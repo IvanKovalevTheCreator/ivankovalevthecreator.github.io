@@ -238,7 +238,7 @@ span.product-color {
 
 }
 
-.button:hover {
+.button:active {
     transition: 0.4s;
     color: rgb(255, 40, 40);
     background-color: #fff;
