@@ -1,0 +1,13 @@
+    <!--Please, don't touch this-->
+    <div style="
+        visibility: hidden;
+        width: auto;">
+        <h1 style="
+            width: auto;
+            text-align: center;
+            font-size: 14px;">
+            Developer Kovalev Ivan<br>
+            Telegram: ikovalev31<br>
+            mail: ikovalev.dev@gmail.com
+        </h1>
+    </div>
